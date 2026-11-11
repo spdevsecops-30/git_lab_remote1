@@ -1,2 +1,2 @@
 Name: SP
-date: %(date +%d-%m-%Y)
+date: 11-11-2026
